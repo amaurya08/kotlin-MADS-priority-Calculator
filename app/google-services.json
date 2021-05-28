@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708798252461",
+    "firebase_url": "https://fiesr-8641d.firebaseio.com",
+    "project_id": "fiesr-8641d",
+    "storage_bucket": "fiesr-8641d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708798252461:android:50a3183bddb2c0760ccd24",
+        "android_client_info": {
+          "package_name": "com.ah.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708798252461-h8o5nnv3fh774drq86v3eu5g4l9rhrg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvX9CO2AZU0NSeMfInGWDjOOG-9EFAX3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708798252461-h8o5nnv3fh774drq86v3eu5g4l9rhrg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
