@@ -108,8 +108,9 @@ class MainActivity : AppCompatActivity() {
             }
             //Calculate Result
             R.id.equals -> {
-                if (!isArtihSym(infixString[infixString.length - 1]))
-                    calculate()
+                if (infixString.isNotEmpty())
+                    if (!isArtihSym(infixString[infixString.length - 1]))
+                        calculate()
             }
             else -> {
                 val symbol: String = tv.text.toString()
